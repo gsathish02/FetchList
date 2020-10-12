@@ -1,0 +1,6 @@
+framework module Pods_FetchAppTests {
+  umbrella header "Pods-FetchAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
